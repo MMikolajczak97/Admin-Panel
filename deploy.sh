@@ -8,6 +8,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:MMikolajczak97/admin-panel.git main:gh-pages
+git push -f https://github.com/MMikolajczak97/Admin-Panel.git main:gh-pages
 
 cd -
